@@ -1,0 +1,47 @@
+﻿using CleanArchMvc6.Domain.Entities;
+using CleanArchMvc6.Domain.Interfaces;
+using CleanArchMvc6.Infra.Data.Context;
+using Microsoft.EntityFrameworkCore;
+
+namespace CleanArchMvc6.Infra.Data.Repositories;
+
+public class ProductRepository : IProductRepository
+{
+    private ApplicationDbContext _productContext;
+    public ProductRepository(ApplicationDbContext context)
+    {
+        _productContext = context;
+    }
+
+    public async Task<Product> CreateAsync(Product product)
+    {
+        _productContext.Add(product);
+        await _productContext.SaveChangesAsync();
+        return product;
+    }
+
+    public async Task<Product> GetByIdAsync(int? id)
+    {
+        return await _productContext.Products.Include(c => c.Category)
+           .SingleOrDefaultAsync(p => p.Id == id);
+    }
+
+    public async Task<IEnumerable<Product>> GetProductsAsync()
+    {
+        return await _productContext.Products.ToListAsync();
+    }
+
+    public async Task<Product> RemoveAsync(Product product)
+    {
+        _productContext.Remove(product);
+        await _productContext.SaveChangesAsync();
+        return product;
+    }
+
+    public async Task<Product> UpdateAsync(Product product)
+    {
+        _productContext.Update(product);
+        await _productContext.SaveChangesAsync();
+        return product;
+    }
+}
