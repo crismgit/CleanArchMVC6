@@ -1,0 +1,42 @@
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Infra.IoC.deps.json
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Infra.IoC.runtimeconfig.json
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Infra.IoC.dll
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Infra.IoC.pdb
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Application.dll
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Domain.dll
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Infra.Data.dll
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Application.pdb
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Domain.pdb
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Infra.Data.pdb
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\CleanArchMvc6.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\CleanArchMvc6.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\CleanArchMvc6.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\CleanArchMvc6.Infra.IoC.AssemblyInfo.cs
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\CleanArchMvc6.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\CleanArchMvc6.Infra.IoC.csproj.CopyComplete
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\CleanArchMvc6.Infra.IoC.dll
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\refint\CleanArchMvc6.Infra.IoC.dll
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\CleanArchMvc6.Infra.IoC.pdb
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\CleanArchMvc6.Infra.IoC.genruntimeconfig.cache
+C:\Users\auxil\Documents\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\ref\CleanArchMvc6.Infra.IoC.dll
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Infra.IoC.deps.json
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Infra.IoC.runtimeconfig.json
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Infra.IoC.dll
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Infra.IoC.pdb
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Application.dll
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Domain.dll
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Infra.Data.dll
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Application.pdb
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Domain.pdb
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\bin\Debug\net6.0\CleanArchMvc6.Infra.Data.pdb
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\CleanArchMvc6.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\CleanArchMvc6.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\CleanArchMvc6.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\CleanArchMvc6.Infra.IoC.AssemblyInfo.cs
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\CleanArchMvc6.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\CleanArchMvc6.Infra.IoC.csproj.CopyComplete
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\CleanArchMvc6.Infra.IoC.dll
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\refint\CleanArchMvc6.Infra.IoC.dll
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\CleanArchMvc6.Infra.IoC.pdb
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\CleanArchMvc6.Infra.IoC.genruntimeconfig.cache
+C:\Users\auxil\Documents\Projetos Dev\Projetos Net\CleanArchMvc6\CleanArchMvc6\CleanArchMvc6.Infra.IoC\obj\Debug\net6.0\ref\CleanArchMvc6.Infra.IoC.dll
